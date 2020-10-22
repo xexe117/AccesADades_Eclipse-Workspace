@@ -1,0 +1,21 @@
+package cat.paucasesnovescifp.spaad;
+
+import java.io.*;
+public class CridesStreams {
+	private final String desti;
+    private final String informacio;	
+    
+	public static void maini(String[] args){
+		Fitxer prove = new Fitxer ("C:/Users/Alumne/eclipse-workspace/SPAADTema1", "Els Ocells.txt");
+	}
+	
+	public void cridesBytes() {
+		
+	}
+	
+	public Fitxer(String desti, String informacio) {
+        this.desti = desti;
+        this.informacio = informacio;
+    
+    }
+}

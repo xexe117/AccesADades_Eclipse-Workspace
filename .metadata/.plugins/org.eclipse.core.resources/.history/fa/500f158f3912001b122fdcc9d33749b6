@@ -1,0 +1,9 @@
+package cat.paucasesnovescifp.spaad;
+
+import java.io.*;
+public class CridesStreams {
+	public static void maini(String[] args) throws IOException{
+		
+	}
+
+}

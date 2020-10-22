@@ -1,0 +1,42 @@
+package cat.paucasesnovescifp.spaad.vehicle;
+
+public class Cotxe {
+	
+	private String marca, nom, CV;
+	
+	public String getMarca() {
+		return marca;
+	}
+
+	public void setMarca(String marca) {
+		this.marca = marca;
+	}
+
+	public String getNom() {
+		return nom;
+	}
+
+	public void setNom(String nom) {
+		this.nom = nom;
+	}
+
+	public String getCV() {
+		return CV;
+	}
+
+	public void setCV(String cV) {
+		CV = cV;
+	}
+
+	public Cotxe(){
+		
+	}
+	
+	public Cotxe(String marca, String nom, String CV) {
+
+	}
+	
+	public String toString() {
+		return ["Marca " + marca + "Nom " + nom + "CV " + CV];
+	}
+}

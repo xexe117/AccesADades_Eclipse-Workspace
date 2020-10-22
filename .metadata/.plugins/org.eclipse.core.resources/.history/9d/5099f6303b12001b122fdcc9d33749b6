@@ -1,0 +1,18 @@
+package cat.paucasesnovescifp.spaad;
+
+import java.io.*;
+public class CridesStreams {
+	public static void maini(String[] args) throws IOException{
+		fitxer prove = "C:/Users/Alumne/eclipse-workspace/SPAADTema1"
+	}
+	
+	public void cridesBytes() {
+		
+	}
+	
+	public fitxer(String desti, String informacio) {
+        this.desti = desti;
+        this.informacio = informacio;
+       
+    }
+}

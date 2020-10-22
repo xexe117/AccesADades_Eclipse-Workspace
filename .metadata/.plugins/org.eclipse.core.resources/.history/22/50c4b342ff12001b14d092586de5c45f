@@ -1,0 +1,30 @@
+package cat.paucasesnovescifp.spaad.vehicle;
+
+public class Cotxe {
+	
+	String elemets, atributs;
+	
+	public String getElemets() {
+		return elemets;
+	}
+
+	public void setElemets(String elemets) {
+		this.elemets = elemets;
+	}
+
+	public String getAtributs() {
+		return atributs;
+	}
+
+	public void setAtributs(String atributs) {
+		this.atributs = atributs;
+	}
+
+	public Cotxe(){
+		
+	}
+	
+	public void Cotxe(String atributs) {
+		
+	}
+}

@@ -1,0 +1,7 @@
+package cat.paucasesnovescifp.spaad.porcessat;
+
+public class Processador {
+	public vooid llegeixVehicle{
+		
+	}
+}
