@@ -7,7 +7,8 @@ import javax.xml.bind.annotation.*;
 public class Cotxe {
 
 	//https://howtodoinjava.com/jaxb/jaxb-annotations/
-	private String marca, nom, CV;
+	private String marca, nom;
+	int CV;
 	
 	public String getMarca() {
 		return marca;
@@ -27,22 +28,23 @@ public class Cotxe {
 		this.nom = nom;
 	}
 	
-	public String getCV() {
+	public int getCV() {
 		return CV;
 	}
-	
-	@XmlElement
-	public void setCV(String cV) {
+
+	public void setCV(int cV) {
 		CV = cV;
 	}
 	
 	
 	public Cotxe(){
-		
+        this(null, null, 0);
 	}
 	
-	public Cotxe(String marca, String nom, String CV) {
-
+	public Cotxe(String marca, String nom, int CV) {
+		this.setMarca(marca);
+        this.setNom(nom);
+        this.setCV(CV);
 	}
 	
 	@Override

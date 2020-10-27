@@ -1,115 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/FastInfoset-1.2.16.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/FastInfoset-1.2.16.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/FastInfoset-1.2.16-javadoc.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/FastInfoset-1.2.16-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/FastInfoset-1.2.16-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/FastInfoset-1.2.16-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/istack-commons-runtime-3.0.8.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/istack-commons-runtime-3.0.8.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/istack-commons-runtime-3.0.8-javadoc.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/istack-commons-runtime-3.0.8-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/istack-commons-runtime-3.0.8-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/istack-commons-runtime-3.0.8-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/jakarta.activation-api-1.2.1.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/jakarta.activation-api-1.2.1.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/jakarta.activation-api-1.2.1-javadoc.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/jakarta.activation-api-1.2.1-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/jakarta.activation-api-1.2.1-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/jakarta.activation-api-1.2.1-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/jakarta.xml.bind-api-2.3.2.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/jakarta.xml.bind-api-2.3.2.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/jakarta.xml.bind-api-2.3.2-javadoc.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/jakarta.xml.bind-api-2.3.2-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/jakarta.xml.bind-api-2.3.2-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/jakarta.xml.bind-api-2.3.2-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/jaxb-runtime-2.3.2.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/jaxb-runtime-2.3.2.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/jaxb-runtime-2.3.2-javadoc.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/jaxb-runtime-2.3.2-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/jaxb-runtime-2.3.2-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/jaxb-runtime-2.3.2-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/stax-ex-1.8.1.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/stax-ex-1.8.1.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/stax-ex-1.8.1-javadoc.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/stax-ex-1.8.1-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/stax-ex-1.8.1-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/stax-ex-1.8.1-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/txw2-2.3.2.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/txw2-2.3.2.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/txw2-2.3.2-javadoc.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/txw2-2.3.2-javadoc.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="Zip/lib/txw2-2.3.2-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/Alumne/Documents/lib/txw2-2.3.2-sources.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/FastInfoset-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/FastInfoset-1.2.16-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/FastInfoset-1.2.16-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/istack-commons-runtime-3.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/istack-commons-runtime-3.0.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/istack-commons-runtime-3.0.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/jakarta.activation-api-1.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/jakarta.activation-api-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/jakarta.xml.bind-api-2.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/jakarta.xml.bind-api-2.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/jaxb-runtime-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/jaxb-runtime-2.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/jaxb-runtime-2.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/stax-ex-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/stax-ex-1.8.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/stax-ex-1.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/txw2-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/txw2-2.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Curs2020_2021/SPAAD/Moodle/Tema1_persistenciaDeDades_Fitxers/XML/Exercicis iniciació JAXB/lib/txw2-2.3.2-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
